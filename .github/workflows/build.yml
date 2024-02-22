@@ -111,4 +111,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: telegram-bot-api_win_x86-64
-          path: telegram-bot-api/build/telegram-bot-api*
+          path: telegram-bot-api/bin/telegram-bot-api*
